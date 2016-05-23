@@ -1,0 +1,22 @@
+header {
+	text-align: center;
+	background-color: cyan;
+	color: white;
+	margin: 10px 10px 10px 10px;
+	border: solid black;
+
+	font-size: 20px;
+}
+
+main  {
+
+}
+
+body {
+
+}
+ nav li{
+	display: inline;
+	margin: 0px 5px 0px 5px;
+}
+
